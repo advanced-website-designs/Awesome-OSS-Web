@@ -1,2 +1,5 @@
 # Awesome-OSS-Web
-Open source tools for web design agencies.
+Open source and low cost tools for efficient web design agencies.
+
+
+[Cyberpanel - Web Hosting Control Panelk](https://cyberpanel.net)
